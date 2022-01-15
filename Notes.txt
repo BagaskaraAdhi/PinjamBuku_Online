@@ -1,0 +1,13 @@
+1. Sebelum memakai aplikasi web kami silahkan mendownload xampp yang support php 5
+2. Setelah terinstall silahkan membuat Database dengan nama db_pinjambuku
+3. Lalu extract file pada htdocs
+4. Setelah itu silahkan import file sql yang tersedia
+5. silahkan run dengan cara ketik localhost/Projek TA pada browser yang anda gunakan
+
+Nama anggota:
+1. Bagaskara adhi pradana(09)	: Project Manager
+2. Damar Radhitya Qolbi(11)	: System Analyst
+3. Muhammad Irfan Arifandi(28)	: Programmer
+4. Raphael Gregory Sosiawan(31)	: System Designer
+
+Sekian dari kami.
